@@ -1,4 +1,4 @@
-URL: https://repl.it/@mrjsng/CapstoneProject
+URL template: https://repl.it/@mrjsng/CapstoneProject
 
 # [NYJC] JC2 Capstone project: Bus search
 
